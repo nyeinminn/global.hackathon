@@ -6,8 +6,7 @@ We all are passionate Software Engineers from Myanmar,
 currently we are working in Singapore. 
 We do love innovative ideas and always thinking to create great products on our own. 
 Hackathon is such a great idea for the team like us in different regions among the country. 
-We believe that this is the great opportunity for our team and this is our very first step to reach our goals and
-we really excited for this Hackathon.
+We believe that this is the great opportunity for our team and this is our very first step to reach our goals and we really excited for this Hackathon.
 
 Our dream is to become a innovative startup company in this era and we try best to achieve our dream.
 Every single days, we thinking and finding to become one perfect solution on our products. 
